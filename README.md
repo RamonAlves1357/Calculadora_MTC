@@ -28,7 +28,7 @@
 ---
 <a id="Intro"></a>
 # 💡 Introdução
-## O que Medida de Tentencia Central?
+## O que é Medida de Tentencia Central?
 <p>Segundo a <a href="https://pt.wikipedia.org/wiki/Tend%C3%AAncia_central#:~:text=Em%20estat%C3%ADstica%2C%20uma%20tend%C3%AAncia%20central,aritm%C3%A9tica%2C%20a%20mediana%20e%20moda.">Wikipedia</a>, uma tendência central (ou, normalmente, uma medida de tendência central) é um valor central ou valor típico para uma distribuição de probabilidade. As medidas de tendência central mais comuns são a <b>média aritmética</b>, a <b>mediana</b> e <b>moda</b>. Tendências centrais podem ser calculadas tanto para um número finito de valores quanto para uma distribuição teórica, a exemplo da distribuição normal. </p>
 
 > ### Média aritmética
